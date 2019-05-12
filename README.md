@@ -4,8 +4,6 @@
   <title>Welcome to chanhee's world</title>
   <meta charset="utf-8">
 </head>
-<body>
-
   <h1><a href="index.html">이찬희 보고서</a></h1>
   <ol>
   </ol>
@@ -30,7 +28,6 @@
   <p>
 <h1><ol>찬찬히야 탐난다 니 안경*^^*</ol></h1>
   </p>
-</body>
 <style>
 body{background-color: lightblue}
 </html>
